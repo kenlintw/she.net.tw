@@ -1,0 +1,58 @@
+帳號：16604391AP2AP 系統發生錯誤！並未將物件參考設定為物件的執行個體  ***  <?xml version="1.0" encoding="utf-16"?>
+<OrderData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Order No="MirV113894_fee">
+    <OrderStatus>0</OrderStatus>
+    <OrderDate>2021/09/22</OrderDate>
+    <ExpectedShipDate>2021/09/22</ExpectedShipDate>
+    <UpdateOrderDate>2021/09/22</UpdateOrderDate>
+    <RateType>1</RateType>
+    <Amount>20</Amount>
+    <TaxAmount>0</TaxAmount>
+    <TotalAmount>20</TotalAmount>
+    <SellerBAN>16604391</SellerBAN>
+    <SellerCode>ecdazi</SellerCode>
+    <BuyerBAN />
+    <BuyerCompanyName />
+    <Members>
+      <Member>
+        <ID>kyokotly@gmail.com</ID>
+        <Name />
+        <ZipCode />
+        <Address>台北市中山區敬業三路22號6樓</Address>
+        <Tel />
+        <MobilePhone>0916811931</MobilePhone>
+        <Email>kyokotly@gmail.com</Email>
+      </Member>
+    </Members>
+    <DiscountAmount>0</DiscountAmount>
+    <PaperInvoiceMark>0</PaperInvoiceMark>
+    <DonateMark>0</DonateMark>
+    <PaymentType />
+    <RelateNumber1 />
+    <RelateNumber2 />
+    <RelateNumber3 />
+    <MainRemark />
+    <CarrierType />
+    <CarrierId1 />
+    <CarrierId2 />
+    <OrderDetails>
+      <Detail>
+        <SeqNo>1</SeqNo>
+        <ItemID>MirV113894_fee</ItemID>
+        <Barcode />
+        <ItemName>訂票手續費</ItemName>
+        <ItemSpec />
+        <Unit />
+        <UnitPrice />
+        <Qty>1</Qty>
+        <Amount>0</Amount>
+        <TaxAmount>0</TaxAmount>
+        <TotalAmount>20</TotalAmount>
+        <HealthAmount>0</HealthAmount>
+        <RateType>1</RateType>
+        <DiscountAmount>0</DiscountAmount>
+        <DetailRemark />
+      </Detail>
+    </OrderDetails>
+  </Order>
+</OrderData>
